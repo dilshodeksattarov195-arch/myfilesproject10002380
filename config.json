@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercave",
+        "uuid": 13639780,
+        "checksum": "t2nuv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
